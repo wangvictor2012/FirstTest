@@ -1,0 +1,4 @@
+Python关于安装scrapy的一些心得：
+
+开始安装出现一些无法编译的情况，是没有安装VCforPython27的扩展
+lxml直接用pip安装也有问题，需要手动下载exe安装，要确保对应Python是32位还是64位
